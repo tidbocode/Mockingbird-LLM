@@ -1,6 +1,6 @@
 ![Image](https://github.com/tidbocode/Mockingbird-LLM/blob/main/MockingbirdLLM.jpg)
 
-# Mockingbird-LLM
+# Mockingbird-ChatBot
 
 A local LLM chatbot that teaches four core memory fundamentals — all running on your machine via Ollama.
 
